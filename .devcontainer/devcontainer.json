@@ -9,5 +9,5 @@
       ]
     }
   },
-  "postCreateCommand": "pip install --upgrade pip && pip install torch transformers datasets langchain faiss-cpu streamlit"
+  "postCreateCommand": "pip install --upgrade pip && pip install torch transformers datasets langchain faiss-cpu streamlit sentence-transformers scikit-learn pandas"
 }
